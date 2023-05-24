@@ -1,0 +1,2 @@
+# testOfGit
+practice of github
